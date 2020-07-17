@@ -75,7 +75,7 @@ export class AppComponent {
       }
 
       this.password = finalPassword;
-
+            
     }
   }
 }
